@@ -1,2 +1,4 @@
 Hello Git.
 I'm learning to work with you.
+
+Now I change this file because of the pull exercise.
